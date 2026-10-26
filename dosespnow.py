@@ -30,5 +30,5 @@ sta.config(channel=int(channel))
 while True:
     try:
         e.send(peer, exploit_message, True)
-except:
+    except OSError:
         pass
