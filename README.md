@@ -4,6 +4,14 @@ This repository contains a comprehensive suite of penetration testing tools, scr
 
 ---
 
+## Project overview
+
+Historical Python and MicroPython materials for scoped wireless-security experiments.
+
+![IoT Wireless Research — Research context and source organization. Documentation and syntax checks do not reproduce radio experiments.](docs/assets/presentation/overview.svg)
+
+Research context and source organization. Documentation and syntax checks do not reproduce radio experiments.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
